@@ -300,7 +300,7 @@
     "lunr": "2.3.3",
     "node-forge": "0.7.6",
     "nord": "0.2.1",
-    "papaparse": "4.6.0",
+    "papaparse": "5.2.0",
     "rxjs": "6.6.2",
     "sweetalert2": "9.8.1",
     "tslib": "^2.0.1",
